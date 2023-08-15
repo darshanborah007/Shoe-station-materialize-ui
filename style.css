@@ -1,0 +1,59 @@
+@font-face {
+    font-family: dd;
+    src: url(./assets/dd.ttf);
+}
+
+
+html {
+    background-color: black;
+
+}
+
+.body{
+font-family: dd;
+}
+
+.nav-bar-btn {
+    padding-top: 0%;
+    margin-top: 0%;
+}
+
+.nav-bar-logo {
+    margin-top: 0%;
+    padding-top: 0%;
+
+}
+
+.carousel{
+    padding-top: 20px;
+}
+
+.shoe-names{
+font-size: 14px;
+font-weight: bolder;
+
+}
+
+.shoe-cart{
+   margin-bottom: 8px;
+}
+
+
+.shoe-price-old {
+    font-size: 14px;
+  text-decoration: line-through;
+color: red;
+}
+
+.shoe-price-new{
+font-size: 14px;
+color:  #ffffff;
+padding-top: 0%;
+margin-top: 0%;
+
+}
+
+
+.page-footer{
+    margin-top: 60px;
+}
